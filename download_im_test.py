@@ -1,3 +1,4 @@
+#Just a test script. Actual download script is in the Python notebook
 import json
 data = json.load(open('validation.json'))
 
